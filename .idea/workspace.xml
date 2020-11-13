@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< Updated upstream
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
       <artifact name="iTravel:war" />
@@ -47,6 +48,8 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
+=======
+>>>>>>> Stashed changes
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -54,6 +57,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
+<<<<<<< Updated upstream
   <component name="ProjectId" id="1kFkAZfOfKZdOW6LuJWltpDzK7d" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -227,4 +231,6 @@
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1605303830930" />
   </component>
+=======
+>>>>>>> Stashed changes
 </project>
